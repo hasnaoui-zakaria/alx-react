@@ -26,3 +26,5 @@ NotificationItem.propTypes = {
     __html: PropTypes.string,
   }),
 };
+
+export default  NotificationItem;
